@@ -9,7 +9,7 @@ Hello! I'm Bakhita Iklil Endrizal, an economics graduate with a global perspecti
 - **Universitas Andalas**  
   *Bachelor of Economics*  
   GPA: 3.83/4.00  
-  **Honors**: Most Outstanding Graduate of Faculty of Economics  
+  **Honors**: Most Outstanding Graduate of the Faculty of Economics  
   **Thesis**: *Assessing Intra-Industry Trade Indices and Determinants: A Comparative Analysis Between Indonesia and BRICS Nations*
 
 - **Australian National University**  
@@ -18,7 +18,7 @@ Hello! I'm Bakhita Iklil Endrizal, an economics graduate with a global perspecti
 
 ---
 ### **Projects**
-#### **1. Market Research Analysis on the Churn Rate of a Telecom Company**
+#### **<a href="https://github.com/bakhitae/Bakhitas-Data-Portfolio/blob/main/Telecom%20Company%20Churn%20Rate.ipynb">1. Market Research Analysis on the Churn Rate of a Telecom Company**</a>
 - **Objective**: Identify factors influencing customer churn in the telecom industry.  
 - **Tools Used**: Python, Pandas, Matplotlib and Seaborn  
 - **Outcome**: Recommend actionable strategies to improve retention and profitability.
