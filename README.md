@@ -22,6 +22,8 @@ Hello! I'm Bakhita Iklil Endrizal, an economics graduate with a global perspecti
 - **Objective**: Identify factors influencing customer churn in the telecom industry.  
 - **Tools Used**: Python, Pandas, Matplotlib and Seaborn  
 - **Outcome**: Recommend actionable strategies to improve retention and profitability.
+
+  
 ---
 
 ### **Skills**
