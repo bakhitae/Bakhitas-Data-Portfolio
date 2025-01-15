@@ -17,49 +17,11 @@ Hello! I'm Bakhita Iklil Endrizal, an economics graduate with a global perspecti
   Focus: International Relations and Sustainable Development
 
 ---
-
-### **Work Experience**
-1. **Teaching Assistant**  
-   *Faculty of Economics and Business, Universitas Andalas*  
-   - Taught advanced Econometrics, Mathematical Economics, and Macroeconomics.  
-   - Guided collaborative research and provided statistical analysis expertise using Stata.
-
-2. **AI Math Analyst**  
-   *Outlier (Remote)*  
-   - Developed and optimized methodologies for AI model training.  
-   - Conducted quality control for mathematical data annotation.
-
-3. **Rotational Intern**  
-   *Bank Mandiri*  
-   - Conducted in-depth market research and developed strategic banking analyses.  
-   - Created advanced Excel models for transaction trend analysis and credit risk management.
-
-4. **Unilever Future Leader’s League Participant**  
-   - Conducted consumer insights research and pitched innovative market strategies to executives.
-
----
-
 ### **Projects**
-#### **1. Market Research Analysis**
-- **Objective**: Optimized transactional banking strategies for retail funding at Bank Mandiri.  
-- **Tools Used**: Excel, Tableau.  
-- **Outcome**: Enhanced customer segmentation and credit risk metrics.
-
-#### **2. Econometric Modeling**
-- **Objective**: Developed predictive models to analyze trade indices in Indonesia and BRICS nations.  
-- **Tools Used**: Stata.  
-- **Outcome**: Provided insights on determinants of trade competitiveness.
-
-#### **3. AI Data Annotation for Machine Learning**
-- **Objective**: Streamlined data annotation for training AI models.  
-- **Tools Used**: Python, custom QC pipelines.  
-- **Outcome**: Improved model accuracy and training efficiency.
-
-#### **4. Social Media Data Analytics**
-- **Objective**: Boosted visibility for Andalas Debating Society.  
-- **Tools Used**: Google Analytics, Canva.  
-- **Outcome**: Increased social media engagement by over 20%.
-
+#### **1. Market Research Analysis on the Churn Rate of a Telecom Company**
+- **Objective**: Identify factors influencing customer churn in the telecom industry.  
+- **Tools Used**: Python, Pandas, Matplotlib and Seaborn  
+- **Outcome**: Recommend actionable strategies to improve retention and profitability.
 ---
 
 ### **Skills**
