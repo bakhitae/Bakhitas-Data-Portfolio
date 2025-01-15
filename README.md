@@ -17,8 +17,8 @@ Hello! I'm Bakhita Iklil Endrizal, an economics graduate with a global perspecti
   Focus: International Relations and Sustainable Development
 
 ---
-### **Projects**
-#### **<a href="https://github.com/bakhitae/Bakhitas-Data-Portfolio/blob/main/Telecom%20Company%20Churn%20Rate.ipynb">1. Market Research Analysis on the Churn Rate of a Telecom Company**</a>
+### **Projects (press the blue text to go to project)**
+#### <a href="https://github.com/bakhitae/Bakhitas-Data-Portfolio/blob/main/Telecom%20Company%20Churn%20Rate.ipynb">1. Market Research Analysis on the Churn Rate of a Telecom Company</a>
 - **Objective**: Identify factors influencing customer churn in the telecom industry.  
 - **Tools Used**: Python, Pandas, Matplotlib and Seaborn  
 - **Outcome**: Recommend actionable strategies to improve retention and profitability.
