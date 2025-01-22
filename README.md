@@ -23,7 +23,8 @@ Hello! I'm Bakhita Iklil Endrizal, an economics graduate with a global perspecti
 - **Tools Used**: Python, Pandas, Matplotlib and Seaborn  
 - **Outcome**: Recommend actionable strategies to improve retention and profitability.
 
-  
+#### <a href="https://github.com/bakhitae/Bakhitas-Data-Portfolio/blob/main/E-commerce.ipynb">2. E-commerce Analysis</a>
+
 ---
 
 ### **Skills**
